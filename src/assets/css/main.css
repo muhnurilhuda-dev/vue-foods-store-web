@@ -1,0 +1,64 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.montserrat-font {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+.navbar-brand:hover {
+  color: #63FFC2;
+}
+.nav-link:hover {
+  color: #63FFC2;
+}
+
+.btn-success {
+  color: black;
+  background-color: #63FFC2;
+  border: 0;
+}
+.btn-success:hover {
+  background-color: #00864a;
+  border: 0;
+}
+
+.badge-success {
+  color: black;
+  background-color: #63FFC2;
+  border: 0;
+}
+.badge-success:hover {
+  background-color: #00864a;
+  border: 0;
+}
+
+.card-product {
+  border-radius: 15px;
+}
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.footer-part {
+  background-color: #63FFC2;
+}
+
+.breadcrumb {
+  background-color: transparent;
+  padding: 0;
+}
+.breadcrumb-item.active {
+  font-weight: bold;
+  color: black;
+}
+
+.img-fluid {
+  border-radius: 15px;
+}
